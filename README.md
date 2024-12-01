@@ -1,4 +1,4 @@
-us.pool.ntp.org is a pretty good pooled mirror for people in the US.
+# us.pool.ntp.org is a pretty good pooled mirror for people in the US.
 pool.ntp.org is a mirror that’s good worldwide.
 Or you can pick on someone who can afford it and go to time.windows.com :-)
 
