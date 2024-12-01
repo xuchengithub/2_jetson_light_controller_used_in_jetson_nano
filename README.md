@@ -1,6 +1,8 @@
-# 2_jetson_light_controller
+## 2_jetson_light_controller
 
-https://forums.developer.nvidia.com/t/jetson-nano-keeping-time-updated-after-reboot/72380/7
+# https://forums.developer.nvidia.com/t/jetson-nano-keeping-time-updated-after-reboot/72380/7
+
+
 Another option is to use a better ntp mirror.
 
 us.pool.ntp.org is a pretty good pooled mirror for people in the US.
@@ -26,3 +28,7 @@ Add a setting for
 
 NTP=pool.ntp.org
 and reload the service and it’ll sync from a service that exists and works.
+
+
+## sudo apt-get install chromium-browser -y
+
